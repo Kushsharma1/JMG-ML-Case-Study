@@ -81,7 +81,7 @@ To run this project locally:
     ```
     (Note: Specific versions might be required as per the notebook's environment.)
 3.  **Open and Run the Notebook:**
-    Open the `MIS710A1_Kush_223581218.ipynb` file using Jupyter Notebook or JupyterLab and run the cells sequentially.
+    Open the `Model.ipynb` file using Jupyter Notebook or JupyterLab and run the cells sequentially.
 
 ## Related Resources
 
