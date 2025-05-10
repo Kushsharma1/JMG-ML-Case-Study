@@ -85,8 +85,8 @@ To run this project locally:
 
 ## Related Resources
 
-* **Project Report (PDF):** [Link to your PDF report here]
-* **Blog Post (Case Study):** [Link to your blog post here]
+* **Project Report (PDF):** [Link](https://www.canva.com/design/DAGkTgJdwgw/vYHhG0ojb2yPVzVEMS7stg/view?utm_content=DAGkTgJdwgw&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hcc65b691b0)
+* **Blog Post (Case Study):** [Link](https://portfolio-rho-wine-27.vercel.app/#/blog/First_Job_Blog)
 
 ## Acknowledgements
 
